@@ -1,0 +1,3 @@
+sb_downstream channel_id:GAUGE:0:U, frequency:GAUGE:0:U, snr:GAUGE:0:U, power:GAUGE:0:U
+sb_upstream channel_id:GAUGE:0:U, frequency:GAUGE:0:U, power:GAUGE:0:U
+sb_codewords channel_id:GAUGE:0:U, unerrored:GAUGE:0:U, correctable:GAUGE:0:U, uncorrectable:GAUGE:0:U
