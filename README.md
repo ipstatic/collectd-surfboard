@@ -1,6 +1,6 @@
 # Collectd Surfboard
 
-Simple Perl script to collect Motorola/Arris Surfboard signal metrics via Collectd.
+A Perl based Collectd plugin to collect Motorola/Arris Surfboard signal metrics.
 
 ## Requirements
 
